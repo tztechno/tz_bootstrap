@@ -28,7 +28,7 @@ Bootstrap 5 JSの読み込み
     </div>
     <span id="rateValue">1200</span>
     <br>
-    <input type="submit" **class="btn btn-primary"** value="Submit">
+    <input type="submit" class="btn btn-primary" value="Submit">
 </form>
 ```
 ---
